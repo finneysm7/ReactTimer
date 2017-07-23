@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jul 22 20:29:17 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015d-6d7d-f4a2-00000e893a28 
+on database directory /Users/seanfinney/Documents/React_Projects/ReactTimer/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@55361f03 
+Loaded from file:/usr/local/Cellar/apache-spark/2.1.1/libexec/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Users/seanfinney/Documents/React_Projects/ReactTimer
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
